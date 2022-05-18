@@ -58,11 +58,11 @@ See [my website](https://edward2nunez.netlify.app) for more information!
   <a href="" target="_blank">
     <img src=""/>
   </a>
-  <a href="" target="_blank">
-    <img src=""/>
+  <a href="https://pokemon-card-game-mathcing-e2n.netlify.app/" target="_blank">
+    <img src="https://imgur.com/a/YEZcElQ"/>
   </a>
       </p>
-         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 40 different cards, test your memory in Pokemon</p>
     </td>
   </tr>
   
