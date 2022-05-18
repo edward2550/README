@@ -50,7 +50,7 @@ See [my website](https://edward2nunez.netlify.app) for more information!
       <h3 align="center">Card Game</h3>
         <br />
       <a target="_blank" href="">
-            <img src="" width="100%"  alt="Rigley 2"/>
+            <img src="https://i.imgur.com/i1Ot3WN.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
