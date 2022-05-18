@@ -58,7 +58,7 @@ See [my website](https://edward2nunez.netlify.app) for more information!
  <a href="https://github.com/edward2550/Pokemon-Card-Matching-Game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="[https://poke-matchcards.netlify.app](https://pokemon-card-game-mathcing-e2n.netlify.app/)" target="_blank">
+  <a href="https://pokemon-card-game-mathcing-e2n.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
