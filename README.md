@@ -32,16 +32,16 @@ See [my website](https://edward2nunez.netlify.app) for more information!
       <h3 align="center"></h3>
         <br />
         <a target="_blank" href="">
-            <img src="" width="100%" alt="Travel App"/>
+            <img src="" width="100%" alt="Project 1"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
-    <img src=""/>
-  </a>  
-  <a href="" target="_blank">
-    <img src=""/>
+ <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
@@ -55,11 +55,11 @@ See [my website](https://edward2nunez.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
-    <img src=""/>
+ <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://pokemon-card-game-mathcing-e2n.netlify.app/" target="_blank">
-    <img src="https://imgur.com/a/YEZcElQ"/>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
          <p><strong>HTML5, CSS3, & Javascript</strong> - With over 40 different cards, test your memory in Pokemon</p>
@@ -75,11 +75,11 @@ See [my website](https://edward2nunez.netlify.app) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/edward2550/Portfolio-1" target="_blank">
+ <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://edward2nunez.netlify.app" target="_blank">
-    <img src="https://imgur.com/a/kcWXWIF"/>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
